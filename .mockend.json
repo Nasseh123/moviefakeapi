@@ -1,10 +1,10 @@
 {
   "Movie": {
     "_": {
-      "data": [{
+      "data": [
+        {
         "title": "Hunter Killer",
         "year": 2018
-        
     }
    ]
     }
